@@ -179,7 +179,7 @@ function Login(){
                 </div>
       
                 <div className="col-span-6 sm:flex sm:items-center sm:gap-4">
-                 <Button  onClick={() => console.log()} text="Login" variant="solid" />
+                 <Button onClick={() => console.log()} text="Login" variant="solid" />
       
                   <p className="mt-4 text-sm text-gray-500 sm:mt-0">
                     Already have an account?
